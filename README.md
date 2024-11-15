@@ -91,11 +91,6 @@ freq_table <- FreqOutcome(
   - Clear presentation of counts and percentages
   - Ideal for clinical outcome reporting
 
-## Contributing
-
-Please report any bugs or feature requests in the [GitHub
-issues](https://github.com/YourGitHubUsername/HospitData/issues).
-
 ## Citation
 
 If you use HospitData in your research, please cite:
