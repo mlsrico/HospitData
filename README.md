@@ -75,7 +75,6 @@ freq_table <- FreqOutcome(
 ```
 
 ## Features
-
 - **Excel Import**: Handles multiple Excel files with error checking and
   automatic type conversion
 - **Biomarker Standardization**:
@@ -90,14 +89,3 @@ freq_table <- FreqOutcome(
   - Flexible grouping variable support
   - Clear presentation of counts and percentages
   - Ideal for clinical outcome reporting
-
-## Citation
-
-If you use HospitData in your research, please cite:
-
-    @software{HospitData2024,
-      author = {Your Name},
-      title = {HospitData: Hospital Data Processing Tools for R},
-      year = {2024},
-      url = {https://github.com/YourGitHubUsername/HospitData}
-    }
